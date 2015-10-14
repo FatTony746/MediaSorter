@@ -1,0 +1,9 @@
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\bin\Debug\MediaSorter.exe.config
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\bin\Debug\MediaSorter.exe
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\bin\Debug\MediaSorter.pdb
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\bin\Debug\taglib-sharp.dll
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\obj\Debug\MediaSorter.csprojResolveAssemblyReference.cache
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\obj\Debug\MediaSorter.exe
+C:\Users\Tonyt\Desktop\Tony's PC\Projects\MediaSorter\MediaSorter\obj\Debug\MediaSorter.pdb
